@@ -10,9 +10,6 @@ A real-time chat application built with Spring Boot, WebSocket (STOMP), and Thym
 - Play Tic-Tac-Toe with other users in the chat
 - Built with Spring Boot 3, Java 17, and Thymeleaf
 
-## Screenshots
-![Chat UI Screenshot](#) <!-- Add your screenshot here -->
-
 ## Getting Started
 
 ### Prerequisites
